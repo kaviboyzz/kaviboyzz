@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaviboyzz
 - 👀 I’m interested in coding,gaming,tv series,anime
-- 🌱 I’m currently learning js , python
+- 🌱 I’m currently learning and building projects based on Spring
 - 💞️ I’m looking to collaborate on web developing to get experience
 - 📫 You can reach me from the mail. kaveeshadharmaratne@gmail.com
 
