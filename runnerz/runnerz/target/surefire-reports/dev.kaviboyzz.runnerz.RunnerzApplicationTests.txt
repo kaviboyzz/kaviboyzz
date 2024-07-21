@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.kaviboyzz.runnerz.RunnerzApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.900 s -- in dev.kaviboyzz.runnerz.RunnerzApplicationTests
